@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_grade_24"
+        android:title="@string/mes_comptes"/>
+
+    <item
+        android:id="@+id/navigation_simulation"
+        android:icon="@drawable/baseline_grade_24"
+        android:title="Simulation"/>
+    <item
+        android:id="@+id/navigation_pay"
+        android:icon="@drawable/baseline_grade_24"
+        android:title="a vous de jouer"/>
+
+</menu>
